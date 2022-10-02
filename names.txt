@@ -1,0 +1,2 @@
+Kotla saiteja `:wq
+
